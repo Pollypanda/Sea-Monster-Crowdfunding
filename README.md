@@ -27,10 +27,9 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap:
-![Alt text](Walkthrough.gif)
+[ploy-walkthrough](https://github.com/Pollypanda/Sea-Monster-Crowdfunding/assets/95537416/e0d0b180-532a-49a9-a586-f585cf02781d)
 
-## Notes
-
+## Notes!
 Describe any challenges encountered while building the app.
 
 ## License
